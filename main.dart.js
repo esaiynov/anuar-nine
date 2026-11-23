@@ -107357,7 +107357,7 @@ KW(a){return this.asX(a)},
 asX(a){var s=0,r=A.R(t.ob),q,p
 var $async$KW=A.S(function(b,c){if(b===1)return A.O(c,r)
 for(;;)switch(s){case 0:p=$.ar()
-q=A.jI(null,null,!0,null,new A.aOh(A.b(["\u041a\u0435\u0448\u0456\u0433\u0435\u0434\u0456","\u0410\u0443\u044b\u0440\u044b\u043f \u0436\u0430\u0442\u044b\u0440","\u041e\u0442\u0431\u0430\u0441\u044b\u043b\u044b\u049b \u0436\u0430\u0493\u0434\u0430\u0439","\u0421\u0435\u0431\u0435\u043f\u0441\u0456\u0437","\u0416\u0430\u0441\u044b\u043b \u0435\u043b","\u0410\u0442\u0430-\u0430\u043d\u0430\u0441\u044b \u0441\u04b1\u0440\u0430\u0434\u044b"],t.s),new A.hU(B.dK,p),a),a,null,!0,!0,t.N)
+q=A.jI(null,null,!0,null,new A.aOh(A.b(["\u041a\u0435\u0448\u0456\u0433\u0435\u0434\u0456","\u0410\u0443\u044b\u0440\u044b\u043f \u0436\u0430\u0442\u044b\u0440, \u0434\u0438\u0430\u0433\u043d\u043e\u0437\u044b: ","\u041e\u0442\u0431\u0430\u0441\u044b\u043b\u044b\u049b \u0436\u0430\u0493\u0434\u0430\u0439","\u0421\u0435\u0431\u0435\u043f\u0441\u0456\u0437","\u0416\u0430\u0441\u044b\u043b \u0435\u043b","\u0410\u0442\u0430-\u0430\u043d\u0430\u0441\u044b \u0441\u04b1\u0440\u0430\u0434\u044b","\u0416\u04b1\u043c\u044b\u0441\u0442\u0430"],t.s),new A.hU(B.dK,p),a),a,null,!0,!0,t.N)
 s=1
 break
 case 1:return A.P(q,r)}})
@@ -119494,7 +119494,7 @@ B.apc=new A.b4("\u041a\u0435\u0448\u0456\u0433\u0443",null,B.e8,null,null,null,n
 B.WM=new A.f2(B.an,null,null,B.apc,null)
 B.aj=new A.w(0.5411764705882353,0,0,0,B.f)
 B.alz=new A.r(!0,B.aj,null,null,null,null,null,B.be,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.apD=new A.b4("\u049a\u043e\u0441\u044b\u043c\u0448\u0430 \u043d\u04b1\u0441\u049b\u0430\u0441\u044b: 1.0.5",null,B.alz,null,null,null,null,null,null,null)
+B.apD=new A.b4("\u049a\u043e\u0441\u044b\u043c\u0448\u0430 \u043d\u04b1\u0441\u049b\u0430\u0441\u044b: 1.0.7",null,B.alz,null,null,null,null,null,null,null)
 B.WN=new A.f2(B.an,null,null,B.apD,null)
 B.a45=new A.bP(983567,"MaterialIcons",!1)
 B.tp=new A.w(1,0.8901960784313725,0.9490196078431372,0.9921568627450981,B.f)
